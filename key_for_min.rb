@@ -8,7 +8,7 @@ def key_for_min_value(name_hash)
     if low_num == nil || age < low_num
       low_num = age
       low_key = name 
-       binding.pry
+      # binding.pry
     end 
  
   end   
